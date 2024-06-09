@@ -1,5 +1,3 @@
-[![Alchemy Logo](https://alchemyviewer.org/assets/images/banner-4bed76df9322897136b74485a58ae2d7.webp)](https://www.alchemyviewer.org)
-
 [Alchemy Viewer](https://www.alchemyviewer.org) is a third-party client for Second Life. Our focus is on creating a cohesive and modern experience, with carefully considered default behaviors and settings, while maintaining a bleeding-edge approach to adopting new features and developments from the Second Life platform.
 
 ## Be a Part of Our Community
